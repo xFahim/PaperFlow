@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\syedf\\source\\repos\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj": {}
+    "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\syedf\\source\\repos\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj": {
+    "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\syedf\\source\\repos\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj",
+        "projectUniqueName": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj",
         "projectName": "PaperFlowWpf",
-        "projectPath": "C:\\Users\\syedf\\source\\repos\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj",
+        "projectPath": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj",
         "packagesPath": "C:\\Users\\syedf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\syedf\\source\\repos\\PaperFlowWpf\\PaperFlowWpf\\obj\\",
+        "outputPath": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
