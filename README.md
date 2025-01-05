@@ -8,7 +8,6 @@ This project is developed as part of **CSE470: Software Engineering**, Section-0
 - **Moonshad Shahid**
 - **Syed Ayman Shahbad**
 - **Miftahul Jannah**
-- **Tanjim Musarrat Farbin Kabir**
 
 ## 🚀 Project Overview
 The **Collaborative Research Paper Management Tool** aims to streamline the research and thesis workflow for academic groups. It helps researchers to:  
