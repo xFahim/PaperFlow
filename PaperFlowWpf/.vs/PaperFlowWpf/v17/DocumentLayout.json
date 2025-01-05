@@ -118,6 +118,32 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
+=======
+              "DocumentIndex": 1,
+              "Title": "HomePageView.xaml.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:52:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePageView.xaml",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Views\\HomePageView.xaml",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml",
+              "RelativeToolTip": "PaperFlowWpf\\Views\\HomePageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T16:30:50.669Z"
+            },
+            {
+              "$type": "Document",
+>>>>>>> Stashed changes
               "DocumentIndex": 4,
               "Title": "LandingPage.xaml.cs",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml.cs",
