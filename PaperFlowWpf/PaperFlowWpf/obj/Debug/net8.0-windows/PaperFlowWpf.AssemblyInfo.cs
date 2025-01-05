@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaperFlowWpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8b62152ec7b5d57d482c2034921db49ee5154a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d91fda02c892aeeb980d400833eaefa0a62e48")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaperFlowWpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaperFlowWpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
