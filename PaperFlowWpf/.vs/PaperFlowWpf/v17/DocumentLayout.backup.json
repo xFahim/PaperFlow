@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\models\\groupmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\models\\groupmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\models\\researchgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\models\\researchgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\views\\homepageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\views\\homepageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\views\\homepageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\views\\homepageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -39,18 +71,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Summary.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\Summary.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Models\\Summary.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\Summary.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Models\\Summary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:11:00.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Progress.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\Progress.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Models\\Progress.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\Progress.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Models\\Progress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:10:42.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Models\\Material.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\Material.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:10:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupMembership.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\GroupMembership.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Models\\GroupMembership.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\GroupMembership.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Models\\GroupMembership.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:10:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResearchGroup.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\ResearchGroup.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Models\\ResearchGroup.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\ResearchGroup.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Models\\ResearchGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:09:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Models\\UserModel.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Models\\UserModel.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:09:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\LoginView.xaml",
+              "RelativeToolTip": "PaperFlowWpf\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T16:52:58.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePageView.xaml.cs",
+              "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "RelativeDocumentMoniker": "PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "RelativeToolTip": "PaperFlowWpf\\Views\\HomePageView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:52:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomePageView.xaml",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml",
               "RelativeDocumentMoniker": "PaperFlowWpf\\Views\\HomePageView.xaml",
               "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\Views\\HomePageView.xaml",
               "RelativeToolTip": "PaperFlowWpf\\Views\\HomePageView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T16:30:50.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T16:30:50.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "LandingPage.xaml.cs",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml.cs",
               "RelativeDocumentMoniker": "PaperFlowWpf\\LandingPage.xaml.cs",
@@ -62,19 +199,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "LandingPage.xaml",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml",
               "RelativeDocumentMoniker": "PaperFlowWpf\\LandingPage.xaml",
               "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml",
               "RelativeToolTip": "PaperFlowWpf\\LandingPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-13T09:53:37.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T09:53:37.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "PaperFlowWpf.csproj",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\PaperFlowWpf.csproj",
               "RelativeDocumentMoniker": "PaperFlowWpf\\PaperFlowWpf.csproj",
@@ -86,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PaperFlowWpf\\MainWindow.xaml",
@@ -97,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PaperFlowWpf\\MainWindow.xaml.cs",
