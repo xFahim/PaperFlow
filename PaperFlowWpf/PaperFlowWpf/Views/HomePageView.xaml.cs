@@ -13,21 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PaperFlowWpf
+namespace PaperFlowWpf.Views
 {
     /// <summary>
-    /// Interaction logic for LandingPage.xaml
+    /// Interaction logic for HomePageView.xaml
     /// </summary>
-    public partial class LandingPage : Page
+    public partial class HomePageView : Page
     {
-        public LandingPage()
+        public HomePageView()
         {
             InitializeComponent();
-        }
-
-        private void startbuttn_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

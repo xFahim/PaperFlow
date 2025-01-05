@@ -18,7 +18,7 @@
             <TextBlock TextWrapping="Wrap" Width="500" HorizontalAlignment="Left" Margin="0 5 0 0" Opacity="0.5">The smarter way to read, review, and collaborate on research papers. Paperflow transforms academic teamwork into effortless progress.</TextBlock>
             <StackPanel Margin="0 10 0 0" Orientation="Horizontal">
                 <Button >Get Invites</Button>
-                <Button Margin="10 0 0 0" Background="MediumPurple">Start Exploring</Button>
+                <Button Margin="10 0 0 0" Background="MediumPurple" Name="startbuttn" Click="startbuttn_Click">Start Exploring</Button>
             </StackPanel>
         </StackPanel>
 

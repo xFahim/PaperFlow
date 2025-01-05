@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\landingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\landingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|solutionrelative:paperflowwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C88F5E4-8228-41CE-8A5A-5FB46A2F68EE}|PaperFlowWpf\\PaperFlowWpf.csproj|c:\\coiding\\git pro\\paperflow\\paperflowwpf\\paperflowwpf\\paperflowwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -40,20 +40,22 @@
               "RelativeDocumentMoniker": "PaperFlowWpf\\LandingPage.xaml.cs",
               "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml.cs",
               "RelativeToolTip": "PaperFlowWpf\\LandingPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:46:16.608Z"
+              "WhenOpened": "2024-12-15T06:46:16.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LandingPage.xaml",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml",
               "RelativeDocumentMoniker": "PaperFlowWpf\\LandingPage.xaml",
               "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\LandingPage.xaml",
               "RelativeToolTip": "PaperFlowWpf\\LandingPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-13T09:53:37.783Z"
+              "WhenOpened": "2024-12-13T09:53:37.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PaperFlowWpf\\MainWindow.xaml",
@@ -80,16 +82,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PaperFlowWpf\\MainWindow.xaml.cs",
               "ToolTip": "C:\\COIDING\\GIT PRO\\PaperFlow\\PaperFlowWpf\\PaperFlowWpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "PaperFlowWpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:22:03.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T20:22:03.619Z"
             }
           ]
         }

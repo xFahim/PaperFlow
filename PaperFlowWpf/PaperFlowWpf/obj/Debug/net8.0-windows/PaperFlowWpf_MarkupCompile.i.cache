@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\App.xaml
-2-137920652
+31634012612
 2-2765835
-7-317208453
+8-585035380
 209-765658188
-LandingPage.xaml;MainWindow.xaml;
+LandingPage.xaml;MainWindow.xaml;Views\HomePageView.xaml;
 
-False
+True
 
