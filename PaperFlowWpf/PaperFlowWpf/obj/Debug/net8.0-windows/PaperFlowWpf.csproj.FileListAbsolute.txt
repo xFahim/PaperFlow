@@ -39,3 +39,7 @@ C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\System.Management.dll
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\obj\Debug\net8.0-windows\Views\HomePageView.g.cs
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\obj\Debug\net8.0-windows\Views\HomePageView.baml
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\obj\Debug\net8.0-windows\Views\LoginView.baml

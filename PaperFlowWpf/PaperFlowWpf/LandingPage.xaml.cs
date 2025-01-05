@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PaperFlowWpf.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,7 +28,7 @@ namespace PaperFlowWpf
 
         private void startbuttn_Click(object sender, RoutedEventArgs e)
         {
-
+            this.NavigationService.Navigate(new LoginView());
         }
     }
 }
