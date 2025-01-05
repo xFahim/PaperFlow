@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PaperFlowWpf.Controller;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,39 @@ namespace PaperFlowWpf.Views
         public LoginView()
         {
             InitializeComponent();
+        }
+
+        private void SignUp_Click(object sender, RoutedEventArgs e)
+        {
+            string email = EmailBox.Text;
+            string pass = PassBox.Text;
+
+            UserService u = new UserService();
+
+
+            if (UserService.SignUp("New User", email, pass))
+            {
+                MessageBox.Show("Sign up successful! You can now login.");
+            }
+            else
+            {
+                MessageBox.Show("Sign up failed. Email might already be in use.");
+            }
+        }
+
+        private void LoginBtn_Click(object sender, RoutedEventArgs e)
+        {
+            var user = UserService.Login(LUserNameBox.Text, LoginPassBox.Password);
+            if (user != null)
+            {
+                MessageBox.Show("login successful.");
+                this.NavigationService.Navigate(new HomePageView(user));
+            }
+            else
+            {
+                MessageBox.Show("Invalid email or password");
+                
+            }
         }
     }
 }

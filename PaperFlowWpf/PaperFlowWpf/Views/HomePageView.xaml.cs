@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PaperFlowWpf.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +21,7 @@ namespace PaperFlowWpf.Views
     /// </summary>
     public partial class HomePageView : Page
     {
-        public HomePageView()
+        public HomePageView(User u)
         {
             InitializeComponent();
         }

@@ -5,7 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:PaperFlowWpf.Views"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="950" d:DesignWidth="800"
       xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
       Title="LoginView">
 
@@ -39,9 +39,9 @@
                                     Margin="0" />
 
                             <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 10 0 0">
-                                <ui:TextBox PlaceholderText="UserName" Margin="5" Width="300"/>
-                                <ui:PasswordBox PlaceholderText="Password..." Margin="5" Width="300" Icon="Password24"/>
-                                <ui:Button Background="MediumPurple"  Margin="5" >
+                                <ui:TextBox Name="LUserNameBox" PlaceholderText="UserName" Margin="5" Width="300"/>
+                                <ui:PasswordBox Name="LoginPassBox" PlaceholderText="Password..." Margin="5" Width="300" Icon="Password24"/>
+                                <ui:Button Background="MediumPurple"  Margin="5" Name="LoginBtn" Click="LoginBtn_Click">
                                     <StackPanel Orientation="Horizontal">
                                         <ui:SymbolIcon VerticalAlignment="Center" FontWeight="Bold" Symbol="ArrowEnter20"/>
                                         <TextBlock VerticalAlignment="Center" FontWeight="SemiBold" Margin="3 -2 0 0">Login</TextBlock>
@@ -63,13 +63,18 @@
                     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
 
                         <Image Source="../Assets/r.png" Width="300" Height="300" HorizontalAlignment="Center"></Image>
-                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="TitleLarge" Text="Ah, invite-only!"/>
-                        <ui:TextBlock  Foreground="LightSlateGray" TextWrapping="Wrap" Width="500" HorizontalAlignment="Center" FontTypography="Subtitle" Text="It’s exclusive, but who said you can’t join? Drop your email, and let’s see if luck is on your side."/>
+                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="TitleLarge" Text="Start Exploring Paperflow!"/>
+                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="Body" FontSize="22" Margin="0 10 0 30" Text="Put in your unique email and password"/>
 
-                        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="0 20 0 0">
-                            <ui:TextBox PlaceholderText="Email" Margin="5" Width="300"/>
-                            <Button Background="MediumPurple" Height="40">Request</Button>
+
+
+                        <StackPanel HorizontalAlignment="Center">
+
+                            <ui:TextBox Name="EmailBox" PlaceholderText="Email" Margin="5" Width="300"/>
+                            <ui:TextBox Name="PassBox" PlaceholderText="Password" Margin="5" Width="300"/>
+                            <Button Background="MediumPurple" Height="40" Name="SignUp" Margin="10" Click="SignUp_Click">Signup</Button>
                         </StackPanel>
+                        
 
                     </StackPanel>
                 </Grid>

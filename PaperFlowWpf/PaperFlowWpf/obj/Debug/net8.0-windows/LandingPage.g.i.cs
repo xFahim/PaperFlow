@@ -65,7 +65,7 @@ namespace PaperFlowWpf {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PaperFlowWpf;V1.0.0.0;component/landingpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PaperFlowWpf;component/landingpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LandingPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
