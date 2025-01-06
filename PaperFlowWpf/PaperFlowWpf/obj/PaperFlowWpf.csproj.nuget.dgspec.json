@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
             "Microsoft.Data.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
