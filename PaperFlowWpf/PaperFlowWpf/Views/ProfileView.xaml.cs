@@ -21,10 +21,78 @@ namespace PaperFlowWpf.Views
     /// </summary>
     public partial class ProfileView : Page
     {
+        private readonly Random _random = new Random();
         public ProfileView(User u)
         {
             InitializeComponent();
             DataContext = u;
+
+            PopulateHeatmap();
+        }
+
+        private void PopulateHeatmap()
+        {
+            var today = DateTime.Now;
+            var startDate = today.AddDays(-365);
+
+            int col = 0;
+            int row = (int)startDate.DayOfWeek;
+
+            for (var date = startDate; date <= today; date = date.AddDays(1))
+            {
+                var activities = GenerateDummyActivities(date);
+                var intensity = CalculateIntensity(activities);
+                var cell = CreateHeatmapCell(intensity, date, activities);
+
+                Grid.SetRow(cell, row);
+                Grid.SetColumn(cell, col);
+                ContributionGrid.Children.Add(cell);
+
+                row = (row + 1) % 7;
+                if (row == 0)
+                {
+                    col++;
+                    ContributionGrid.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
+                }
+            }
+        }
+        private int GenerateDummyActivities(DateTime date)
+        {
+            // Generate more activities for weekdays, fewer for weekends
+            if (date.DayOfWeek == DayOfWeek.Saturday || date.DayOfWeek == DayOfWeek.Sunday)
+                return _random.Next(0, 3);
+            return _random.Next(0, 8);
+        }
+
+        private SolidColorBrush CalculateIntensity(int activities)
+        {
+            // Color scheme similar to GitHub's but with blue tones for research theme
+            if (activities == 0)
+                return new SolidColorBrush(Color.FromRgb(238, 238, 238));
+            else if (activities <= 2)
+                return new SolidColorBrush(Color.FromRgb(198, 219, 239));
+            else if (activities <= 4)
+                return new SolidColorBrush(Color.FromRgb(158, 202, 225));
+            else if (activities <= 6)
+                return new SolidColorBrush(Color.FromRgb(107, 174, 214));
+            else
+                return new SolidColorBrush(Color.FromRgb(49, 130, 189));
+        }
+
+        private UIElement CreateHeatmapCell(SolidColorBrush intensity, DateTime date, int activities)
+        {
+            var border = new Border
+            {
+                Style = (Style)FindResource("HeatmapCell"),
+                Background = intensity
+            };
+
+            // Create tooltip content
+            var activityText = activities == 1 ? "activity" : "activities";
+            ToolTipService.SetToolTip(border,
+                $"{date.ToString("MMM d, yyyy")}\n{activities} research {activityText}");
+
+            return border;
         }
     }
 }

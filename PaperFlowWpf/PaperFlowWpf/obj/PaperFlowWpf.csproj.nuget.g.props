@@ -18,5 +18,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgWPF-UI Condition=" '$(PkgWPF-UI)' == '' ">C:\Users\syedf\.nuget\packages\wpf-ui\3.0.5</PkgWPF-UI>
+    <PkgLiveCharts_Wpf Condition=" '$(PkgLiveCharts_Wpf)' == '' ">C:\Users\syedf\.nuget\packages\livecharts.wpf\0.9.7</PkgLiveCharts_Wpf>
   </PropertyGroup>
 </Project>
