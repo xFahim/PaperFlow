@@ -50,7 +50,7 @@ namespace PaperFlowWpf.Views
             if (user != null)
             {
                 MessageBox.Show("login successful.");
-                this.NavigationService.Navigate(new HomePageView(user));
+                this.NavigationService.Navigate(new ProfileView(user));
             }
             else
             {

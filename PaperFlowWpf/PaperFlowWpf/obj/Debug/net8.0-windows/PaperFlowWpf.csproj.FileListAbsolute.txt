@@ -86,3 +86,6 @@ C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\obj\Debug\net8.0-windows\Views\ProfileView.g.cs
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\obj\Debug\net8.0-windows\Views\ProfileView.baml
+C:\COIDING\GIT PRO\PaperFlow\PaperFlowWpf\PaperFlowWpf\bin\Debug\net8.0-windows\Assets\vam.png

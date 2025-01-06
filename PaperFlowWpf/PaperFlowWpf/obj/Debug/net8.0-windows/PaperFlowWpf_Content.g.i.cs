@@ -10,5 +10,6 @@
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/elephant.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/r.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/vam.png")]
 
 
