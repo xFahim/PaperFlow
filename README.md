@@ -1,4 +1,5 @@
 # PaperFlow
+![image](https://github.com/user-attachments/assets/33d68405-4e99-4526-9c19-2c38aaea8b1f)
 
 ## 📚 University Course Project
 This project is developed as part of **CSE470: Software Engineering**, Section-08, Group-09.
@@ -30,3 +31,10 @@ This tool follows the **MVC Architecture**:
 ---
 
 Thank you for checking out our project!
+
+
+some of the snaps:
+![image](https://github.com/user-attachments/assets/c32b3d38-e112-43b5-ab0a-35db4cbed965)
+![image](https://github.com/user-attachments/assets/c259ad10-93b7-476a-ba7f-67a6c23ea94b)
+![image](https://github.com/user-attachments/assets/d7a8229f-c9ca-44e5-a5c5-835a9640d10b)
+
