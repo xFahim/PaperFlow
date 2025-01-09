@@ -8,8 +8,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/back.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/back2.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/dino.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/dog.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/elephant.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/gor.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/r.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/vam.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webview2loader.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webview2loader.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("webview2loader.dll")]
 
 

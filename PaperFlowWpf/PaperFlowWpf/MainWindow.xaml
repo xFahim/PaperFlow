@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         
         xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
-        Title="PaperFlow" Background="#121212" Foreground="#3E6FB0" MouseDown="Window_MouseDown" Height="668" Width="1148" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" WindowStyle="None">
+        Title="PaperFlow" Background="#121212" Foreground="#3E6FB0" MouseDown="Window_MouseDown" Height="728" Width="1248" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" WindowStyle="None">
 
     <Grid>
 

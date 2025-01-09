@@ -1,0 +1,25 @@
+﻿<Page x:Class="PaperFlowWpf.Views.addFileView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PaperFlowWpf.Views"
+        mc:Ignorable="d"
+        xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+        Title="Add Paper"  Background="#181818">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <ui:TextBlock FontTypography="Display" HorizontalAlignment="Center" Foreground="White" Text="Time To Add"/>
+            <ui:TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" FontTypography="Title" Foreground="LightSlateGray" Text="Look for free access"/>
+
+            <ui:TextBox Name="doiBox" PlaceholderText="Put the unique DOI ID" Margin="5" Width="300"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <Button Name="fetchBtn" Click="fetchBtn_Click"  Width="100">Fetch</Button>
+                <Button Name="BrowseBtn" Click="BrowseBtn_Click" Margin="10 0 0 0">Browse from Device</Button>
+            </StackPanel>
+            <WebBrowser x:Name="PdfViewer" Margin="10" VerticalAlignment="Stretch" Grid.Row="1" Visibility="Hidden" />
+            
+            
+        </StackPanel>
+    </Grid>
+</Page>

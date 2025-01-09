@@ -25,5 +25,20 @@ namespace PaperFlowWpf.Views
         {
             InitializeComponent();
         }
+
+        private void CreateGroupButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Group Successfully created. You will find it in your dashboard");
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Join Request Sent.\n\nPlease wait for approval");
+        }
+
+        private void BackBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new ProfileView(null));
+        }
     }
 }

@@ -25,11 +25,22 @@ namespace PaperFlowWpf.Views
         public ProfileView(User u)
         {
             InitializeComponent();
-            DataContext = u;
 
             PopulateHeatmap();
+            LoadDummyData();
         }
+        private void LoadDummyData()
+        {
+            var dummyData = new List<ResearchGroup>
+            {
+                new ResearchGroup { Id = 1, Title = "AI for Agriculture", Description = "Exploring AI to improve farming practices.", Category = "Agriculture", CreatedAt = DateTime.Now.AddMonths(-3) },
+                new ResearchGroup { Id = 2, Title = "Water Resource Management", Description = "Optimizing water usage in agriculture.", Category = "Environmental Science", CreatedAt = DateTime.Now.AddMonths(-2) },
+                new ResearchGroup { Id = 3, Title = "IoT in Farming", Description = "Leveraging IoT for real-time monitoring.", Category = "Technology", CreatedAt = DateTime.Now.AddMonths(-1) },
+                new ResearchGroup { Id = 4, Title = "Bangla Text Classification", Description = "Leveraging IoT for real-time monitoring.", Category = "Technology", CreatedAt = DateTime.Now.AddMonths(-1) }
+            };
 
+            ResearchGroupList.ItemsSource = dummyData;
+        }
         private void PopulateHeatmap()
         {
             var today = DateTime.Now;
@@ -93,6 +104,16 @@ namespace PaperFlowWpf.Views
                 $"{date.ToString("MMM d, yyyy")}\n{activities} research {activityText}");
 
             return border;
+        }
+
+        private void Explorebtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new HomePageView(null));
+        }
+
+        private void MyBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new MyGroupView());
         }
     }
 }

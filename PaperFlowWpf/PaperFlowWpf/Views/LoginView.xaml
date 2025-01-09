@@ -5,7 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:PaperFlowWpf.Views"
       mc:Ignorable="d" 
-      d:DesignHeight="950" d:DesignWidth="800"
+      d:DesignHeight="950" d:DesignWidth="1100"
       xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
       Title="LoginView">
 
@@ -13,32 +13,35 @@
 
 
         <TabControl Margin="15" Background="#1E1E1E">
-            <TabItem>
+            <TabItem IsSelected="True">
                 <TabItem.Header>
                     <StackPanel Margin="10" Orientation="Horizontal">
                         <TextBlock FontWeight="SemiBold" Text="Login" />
                     </StackPanel>
                 </TabItem.Header>
                 <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image Stretch="UniformToFill" Source="../Assets/back.jpg"></Image>
                     <Border 
-                    CornerRadius="10" 
-                    Background="#2A1D35" 
-                    BorderBrush="#4B3461" 
-                    BorderThickness="1" 
                     Padding="16" 
                     Effect="{DynamicResource ShadowEffect}" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
 
                         <!-- Card Content -->
                         <StackPanel Margin="20">
                             <!-- Title -->
+                            <ui:TextBlock FontTypography="Display" Text="Let's Explore PaperFlow" TextWrapping="Wrap"/>
+
                             <TextBlock 
                                     Text="Start With Sign-In" 
                                     FontSize="18" 
                                     FontWeight="Bold" 
                                     Foreground="White" 
-                                    Margin="0" />
+                                    Margin="0 10 0 0" />
 
-                            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 10 0 0">
+                            <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0 30 0 0">
                                 <ui:TextBox Name="LUserNameBox" PlaceholderText="UserName" Margin="5" Width="300"/>
                                 <ui:PasswordBox Name="LoginPassBox" PlaceholderText="Password..." Margin="5" Width="300" Icon="Password24"/>
                                 <ui:Button Background="MediumPurple"  Margin="5" Name="LoginBtn" Click="LoginBtn_Click">
@@ -53,18 +56,22 @@
                     </Border>
                 </Grid>
             </TabItem>
-            <TabItem IsSelected="True">
+            <TabItem >
                 <TabItem.Header>
                     <StackPanel Margin="10" Orientation="Horizontal">
                         <TextBlock FontWeight="SemiBold" Text="Sign Up" />
                     </StackPanel>
                 </TabItem.Header>
                 <Grid>
-                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="1" Source="../Assets/back2.jpg" Stretch="UniformToFill"></Image>
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="350" Margin="10">
 
-                        <Image Source="../Assets/r.png" Width="300" Height="300" HorizontalAlignment="Center"></Image>
-                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="TitleLarge" Text="Start Exploring Paperflow!"/>
-                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="Body" FontSize="22" Margin="0 10 0 30" Text="Put in your unique email and password"/>
+                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="TitleLarge" Text="Become a part of this journey" TextWrapping="Wrap"/>
+                        <ui:TextBlock HorizontalAlignment="Center" FontTypography="Body" FontSize="22" Margin="0 10 0 30" Text="Enter your email and password" TextWrapping="Wrap"/>
 
 
 
@@ -72,7 +79,7 @@
 
                             <ui:TextBox Name="EmailBox" PlaceholderText="Email" Margin="5" Width="300"/>
                             <ui:TextBox Name="PassBox" PlaceholderText="Password" Margin="5" Width="300"/>
-                            <Button Background="MediumPurple" Height="40" Name="SignUp" Margin="10" Click="SignUp_Click">Signup</Button>
+                            <Button Background="MediumPurple" Height="40" Name="SignUp" Margin="10" Width="120" Click="SignUp_Click">Signup</Button>
                         </StackPanel>
                         
 
